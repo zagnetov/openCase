@@ -1,0 +1,15 @@
+p{
+    font-size: 2em;
+}
+.rare{
+    color: #1182ec;
+}
+.epic{
+    color: #58218f;
+}
+.mystical{
+    color: #d81d3e;
+}
+.legendary{
+    color: #fc6318;
+}
